@@ -1,0 +1,1 @@
+Usar principios de diseño SOLID
