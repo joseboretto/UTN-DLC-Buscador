@@ -7,9 +7,10 @@ package modelo;
 
 /**
  *
- * @author Jose
+ * @author a6
  */
 public class Indexador {
+    //todo lo del trabajo de TSB
     
     
 }

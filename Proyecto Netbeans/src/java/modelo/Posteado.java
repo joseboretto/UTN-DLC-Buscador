@@ -9,6 +9,8 @@ package modelo;
  *
  * @author a6
  */
-public class Rankeador {
-    
+public class Posteado {
+    private Palabra palabra;
+    private int frecuencia;
+    private Documento doc;
 }

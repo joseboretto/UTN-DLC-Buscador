@@ -5,17 +5,12 @@
  */
 package modelo;
 
+import java.util.ArrayList;
+
 /**
  *
- * Las listas de posteo consumen mucho espacio, y se implementan en disco
- * (normalmente todas juntas en el mismo archivo). 
- * Cada entrada del vocabulario debe disponer de un campo que indique en qué
- * lugar del archivo de posteo empieza su propia lista.
- * 
- * Para permitir un ordenamiento de los documentos relevantes frente 
- * a una consulta, se recomienda que cada entrada del posteo almacene 
- * el tf del término referido.
+ * @author a6
  */
 public class Posteo {
-    
+    private ArrayList<Posteado> posteo;
 }
