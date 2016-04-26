@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package modelo;
+package soporte;
 
 /**
  *
  * @author a6
  */
-public class Rankeador {
+public class Cronometro {
     
 }

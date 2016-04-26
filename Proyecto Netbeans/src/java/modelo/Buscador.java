@@ -9,6 +9,6 @@ package modelo;
  *
  * @author a6
  */
-public class Rankeador {
+public class Buscador {
     
 }
